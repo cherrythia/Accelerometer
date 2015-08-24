@@ -41,20 +41,20 @@
     int intPlayerNewPosY = (int)(buttonMoving.center.y + valueY);
     
     //position validation
-    if (intPlayerNewPosX > (320 - MovingObjectRadius)) {
-        intPlayerNewPosX = (320 - MovingObjectRadius);
+    if (intPlayerNewPosX > (self.view.frame.size.width - MovingObjectRadius)) {
+        intPlayerNewPosX = (self.view.frame.size.width - MovingObjectRadius);
     }
     
-    if(intPlayerNewPosY < (0+MovingObjectRadius)){
-        intPlayerNewPosX = (0+MovingObjectRadius);
+    if(intPlayerNewPosY < (0 + MovingObjectRadius)){
+        intPlayerNewPosX = (0 + MovingObjectRadius);
     }
     
-    if (intPlayerNewPosY > (480 - MovingObjectRadius)) {
-        intPlayerNewPosY = (480 - MovingObjectRadius);
+    if (intPlayerNewPosY > (self.view.frame.size.height - MovingObjectRadius)) {
+        intPlayerNewPosY = (self.view.frame.size.height - MovingObjectRadius);
     }
     
-    if (intPlayerNewPosY <(0+MovingObjectRadius)) {
-        intPlayerNewPosY = (0+MovingObjectRadius);
+    if (intPlayerNewPosY <(0 + MovingObjectRadius)) {
+        intPlayerNewPosY = (0 + MovingObjectRadius);
     }
     
     //Make the new point

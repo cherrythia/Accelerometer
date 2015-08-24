@@ -168,6 +168,7 @@
 				TargetAttributes = {
 					14510F971B89C32000C72DA1 = {
 						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = V2KYG82924;
 					};
 					14510FB01B89C32000C72DA1 = {
 						CreatedOnToolsVersion = 6.4;
@@ -347,6 +348,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "Tut Accelerometer/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -357,6 +359,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "Tut Accelerometer/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -416,6 +419,7 @@
 				14510FBD1B89C32000C72DA1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		14510FBE1B89C32000C72DA1 /* Build configuration list for PBXNativeTarget "Tut AccelerometerTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +428,7 @@
 				14510FC01B89C32000C72DA1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

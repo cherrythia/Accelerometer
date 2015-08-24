@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CD33F64AA800CABA248DE307C2BFE3E9518A401E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "74F87D882F192BE3C369626702D5EF9BFBFB008E" : 0,
+    "CD33F64AA800CABA248DE307C2BFE3E9518A401E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C29BDA4D-1B5C-4955-B9BE-20AD928772C8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "74F87D882F192BE3C369626702D5EF9BFBFB008E" : "..",
+    "CD33F64AA800CABA248DE307C2BFE3E9518A401E" : "Tut%20Accelerometer\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Tut Accelerometer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Tut Accelerometer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cherrythia\/XcodeProtocolTutorial.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "74F87D882F192BE3C369626702D5EF9BFBFB008E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cherrythia\/Accelerometer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CD33F64AA800CABA248DE307C2BFE3E9518A401E"
+    }
+  ]
+}
