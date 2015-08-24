@@ -45,7 +45,7 @@
         intPlayerNewPosX = (self.view.frame.size.width - MovingObjectRadius);
     }
     
-    if(intPlayerNewPosY < (0 + MovingObjectRadius)){
+    if(intPlayerNewPosX < (0 + MovingObjectRadius)){
         intPlayerNewPosX = (0 + MovingObjectRadius);
     }
     
